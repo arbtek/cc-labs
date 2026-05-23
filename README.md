@@ -1,6 +1,6 @@
-# cc-labs
-tbd
-Building an analysis platform and reporting engine. 
+#### cc-labs ####
+#### tbd ####
+### Building an analysis platform and reporting engine. ###
 ## Project Goal ##
 ## Architecture ##
 ## Security Model ##
@@ -8,6 +8,6 @@ Building an analysis platform and reporting engine.
 ## Threat Model ##
 ## Tech Stack ##
 ## API Endpoints ##
-Database Schema 
-Local Development
-Roadmap
+## Database Schema  ##
+## Local Development ##
+## Roadmap ##
